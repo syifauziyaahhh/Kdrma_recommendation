@@ -1,4 +1,3 @@
-# Kdrma_recommendation
 # **Introduction**
 Drama Korea diterima dengan baik tidak hanya oleh orang Korea tetapi juga oleh orang-orang di seluruh dunia, berkat beragam tema dan elemen menarik yang dihadirkan. Selain konten drama itu sendiri, berbagai faktor seperti sutradara, penyiar, dan jadwal tayang juga memainkan peran penting dalam kesuksesan sebuah drama. Analisis ini menggunakan data dari berbagai drama Korea terkenal untuk melakukan eksplorasi elemen-elemen yang berkontribusi pada popularitas mereka. Seperti yang disebutkan sebelumnya, drama Korea menerima banyak perhatian dan cinta dari seluruh dunia. Mempertimbangkan hasil analisis data, lebih mudah untuk memahami karakteristik drama Korea, dan hasil yang lebih baik dapat diperoleh dengan merujuknya ke produksi drama.
 
@@ -21,5 +20,5 @@ Drama Korea diterima dengan baik tidak hanya oleh orang Korea tetapi juga oleh o
 - Genre yang paling populer adalah romance.
 - Drama dengan rating tertinggi adalah **Move to Heaven** dengan nilai 9,2.
 
-**Conclusions:**
+# **Conclusions:**
 Dari hasil rekomendasi di atas, diketahui bahwa **"It's Okay to Not Be Okay"** memiliki kesamaan dalam kategori Sinopsis, Genre, dan Tags. Dari 7 item yang direkomendasikan, semuanya memiliki kesamaan dalam kategori tersebut. Selain itu, terdapat 10 rekomendasi yang memiliki sinopsis serupa.
